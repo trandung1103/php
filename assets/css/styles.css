@@ -446,7 +446,7 @@ button{
   position: relative;
   background: var(--container-color);
   border-radius: 1rem;
-  padding: 1.5rem 13.3rem 1rem 9.3rem;
+  padding: 1.5rem 13.5rem 1rem 9.5rem;
   text-align: center;
   overflow: hidden;
 }
@@ -484,7 +484,9 @@ button{
 
 .trick__icon{
   font-size: 1.25rem;
-  color: var(--title-color);
+  color: white;
+  border-radius: 25px;
+  background-color: blue;
 }
 
 .trick__content:hover .trick__img{
@@ -493,6 +495,7 @@ button{
 
 .trick__content:hover .trick__button{
   right: 0;
+  background-color: var(--first-color);
 }
 
 /*=============== DISCOUNT ===============*/
@@ -602,8 +605,9 @@ button{
 
 .new__icon{
   font-size: 1.25rem;
-  background-color: white;
-  border-radius: 20px;
+  color: white;
+  border-radius: 25px;
+  background-color: blue;
 }
 
 .new__content:hover .new__img{
@@ -612,6 +616,7 @@ button{
 
 .new__content:hover .new__button{
   right: 0;
+  background-color: var(--first-color);
 }
 
 /*=============== NEWSLETTER ===============*/
@@ -1088,4 +1093,3 @@ button{
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 } */
-
