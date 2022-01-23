@@ -446,7 +446,7 @@ button{
   position: relative;
   background: var(--container-color);
   border-radius: 1rem;
-  padding: 1.5rem 13rem 1rem 9rem;
+  padding: 1.5rem 13.3rem 1rem 9.3rem;
   text-align: center;
   overflow: hidden;
 }
