@@ -439,14 +439,14 @@ button{
   grid-template-columns: repeat(1, 1fr);
   gap: 1.5rem;
   padding-top: 1rem;
-  padding-right: 250px;
+  padding-right: 170px;
 }
 
 .trick__content{
   position: relative;
   background: var(--container-color);
   border-radius: 1rem;
-  padding: 1.5rem 15rem 1rem 12rem;
+  padding: 1.5rem 13rem 1rem 9rem;
   text-align: center;
   overflow: hidden;
 }
