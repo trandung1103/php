@@ -533,17 +533,17 @@ button{
   justify-self: center;
 }
 
-/*=============== NEW ARRIVALS ===============*/
+/*=============== MEMBER A2K53 ===============*/
 .new__container{
   padding-top: 1rem;
 }
 
 .new__img{
-  width: 40px;
-  height: 140px;
+  /* width: 10%; */
+  height: 45%;
   margin-bottom: var(--mb-0-5);
   transition: .3s;
-  border-radius: 1000000px;
+  border-radius: 100%;
 }
 
 .new__content{
@@ -620,7 +620,7 @@ button{
 .new__icon{
   font-size: 1.25rem;
   color: white;
-  border-radius: 25px;
+  border-radius:100%;
   background-color: blue;
 }
 
@@ -1097,14 +1097,3 @@ button{
   border-radius: 11px ;
 }
  
-/* .chu {
-  white-space: nowrap; 
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  overflow: hidden;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-} */
